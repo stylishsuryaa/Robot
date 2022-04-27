@@ -93,7 +93,7 @@ def get_readable_time(seconds: int) -> str:
 
 
 # sourcery skip: raise-specific-error
-ZELDRIS_IMG = "https://telegra.ph/file/1fa00785f30375c0c1b50.jpg"
+ZELDRIS_IMG = "https://telegra.ph/file/1ba30d3fabf8eeed99f96.jpg"
 
 PM_START_TEXT = """
 Hey there! my name is *{}*. 
@@ -103,7 +103,7 @@ A modular group management bot with useful features. [ㅤ](https://telegra.ph/fi
 ◑ `{}` *Users, across* `{}` *chats.*
 
 Any issues or need help related to me?
-Join our official group [IDNCoderX](https://t.me/IDNCoderX).
+Join our official group [IDNCoderX](https://t.me/Friendstamilchatting).
 Click help button to know my commands!
 """
 
@@ -115,13 +115,13 @@ buttons = [
         ),
         InlineKeyboardButton(
             text="Updates 📢",
-            url="https://t.me/IDNCoder",
+            url="https://t.me/mafiakingsfed",
         ),
     ],
     [
         InlineKeyboardButton(
-            text="Add Zeldris to Your Group 👥",
-            url="t.me/ZeldrisRobot?startgroup=true",
+            text="Add Ronaldo to Your Group 👥",
+            url="t.me/Zaynmalik_gc_bot?startgroup=true",
         ),
     ],
 ]
@@ -266,12 +266,12 @@ def start(update: Update, context: CallbackContext):
                 [
                     [
                         InlineKeyboardButton(
-                            text="☎️ Support",
-                            url="https://t.me/IDNCoderX",
+                            text="God",
+                            url="https://t.me/Suryaakumar",
                         ),
                         InlineKeyboardButton(
-                            text="Updates 📡",
-                            url="https://t.me/IDNCoder",
+                            text="Best Friend",
+                            url="https://t.me/bestie_of_suryaa_parzi",
                         ),
                     ]
                 ]
